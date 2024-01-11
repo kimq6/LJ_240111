@@ -7,3 +7,4 @@ LJpotential
 4) push - push할 branch 확인
 5) pull request - (깃허브에서) merge하기
 
+아니 왜 push가 안됨
