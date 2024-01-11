@@ -46,5 +46,7 @@ for z in np.arange(0.3, 0.6, 0.001):
         min_sum_potential = sum_potential
 
 
-# sum_potential이 0일때 z값 저장
-# 그 z에서 potential xy 움직이면서 측정.
+# 주석처리
+# 변수 이름 변경(min_potential_z, min_sum_potential)
+# min_potential_z에서 xy 움직이면서 potential 측정.
+
